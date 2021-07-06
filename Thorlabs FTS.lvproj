@@ -67,8 +67,8 @@
 			<Item Name="OSA20X_misc.lvlib" Type="Library" URL="../OSA20X_misc.lvlib"/>
 		</Item>
 		<Item Name="OSA.lvclass" Type="LVClass" URL="../_OSA_class/OSA.lvclass"/>
-		<Item Name="OSA200.lvclass" Type="LVClass" URL="../_tree/OSA200.lvclass"/>
-		<Item Name="OSA300.lvclass" Type="LVClass" URL="../_tree/OSA300.lvclass"/>
+		<Item Name="OSA200.lvclass" Type="LVClass" URL="../_OSA_class/_OSA200_class/OSA200.lvclass"/>
+		<Item Name="OSA300.lvclass" Type="LVClass" URL="../_OSA_class/_OSA300_class/OSA300.lvclass"/>
 		<Item Name="OSA_example.vi" Type="VI" URL="../_examples/OSA_example.vi"/>
 		<Item Name="OSA_example_acquisition.vi" Type="VI" URL="../_examples/OSA_example_acquisition.vi"/>
 		<Item Name="OSA_example_analyse.vi" Type="VI" URL="../_examples/OSA_example_analyse.vi"/>
