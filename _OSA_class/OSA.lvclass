@@ -421,24 +421,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 		</Item>
-		<Item Name="instrumentProperties_channels_nr.vi" Type="VI" URL="../public/instrument properties/instrumentProperties_channels_nr.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#A!A1(!!(A!!$1N05U%O&lt;(:D&lt;'&amp;T=Q!*=G6G:8*F&lt;G.F!!1!!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!#!!-!"".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!.#U^413ZM&gt;G.M98.T!".E&gt;8"M;7.B&gt;'5A=G6G:8*F&lt;G.F!"&amp;!!Q!+9WBB&lt;GZF&lt;#"O=A!!&amp;E"1!!-!!A!$!!1*:8*S&lt;X)A&lt;X6U!*E!]!!5!!!!!1!"!!%!!1!&amp;!!%!!1!"!!%!!1!"!!%!!1!'!!%!"Q!"!!%!#!-!!2!!!"!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$1!!!!!!!!!*!!!!!!!!!!!!!!!."1!6!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!%!#1!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">8</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1082393104</Property>
-		</Item>
-		<Item Name="instrumentProperties_channel_stiched.vi" Type="VI" URL="../public/instrument properties/instrumentProperties_channel_stiched.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;B!!!!#A!A1(!!(A!!$1N05U%O&lt;(:D&lt;'&amp;T=Q!*=G6G:8*F&lt;G.F!!1!!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!#!!-!"".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#J!=!!?!!!.#U^413ZM&gt;G.M98.T!".E&gt;8"M;7.B&gt;'5A=G6G:8*F&lt;G.F!"6!"Q!09WBB&lt;GZF&lt;#"T&gt;'FD;'6E!":!5!!$!!)!!Q!%#76S=G^S)'^V&gt;!#:!0!!&amp;!!!!!%!!1!"!!%!"1!"!!%!!1!"!!%!!1!"!!%!"A!"!!=!!1!"!!A$!!%1!!!1!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!U!!!!!!!!!#1!!!!!!!!!!!!!!$15!&amp;1!!!!!!!!!!!!!!!!!!!1!!!!!!!!!"!!E!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">8</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1074528784</Property>
-		</Item>
 	</Item>
 	<Item Name="utils" Type="Folder">
 		<Item Name="OSA20X_asAcq_new.vi" Type="VI" URL="../utils/OSA20X_asAcq_new.vi">
