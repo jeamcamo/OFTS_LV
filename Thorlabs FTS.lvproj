@@ -132,12 +132,10 @@
 			<Item Name="FTSLib.dll" Type="Document" URL="FTSLib.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="instrumentProperties_channel_nr.vi" Type="VI" URL="../_OSA_class/public/instrument properties/instrumentProperties_channel_nr.vi"/>
-			<Item Name="instrumentProperties_channel_stiched.vi" Type="VI" URL="../_OSA_class/public/instrument properties/instrumentProperties_channel_stiched.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 			<Item Name="OSA_series.ctl" Type="VI" URL="../_OSA_class/typeDef/OSA_series.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
