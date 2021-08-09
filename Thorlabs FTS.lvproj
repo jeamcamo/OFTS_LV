@@ -76,6 +76,7 @@
 		<Item Name="OSA_example_traces.vi" Type="VI" URL="../_examples/OSA_example_traces.vi"/>
 		<Item Name="OSA_example_XYarray.vi" Type="VI" URL="../_examples/OSA_example_XYarray.vi"/>
 		<Item Name="OSA_tree.vi" Type="VI" URL="../_tree/OSA_tree.vi"/>
+		<Item Name="OSAchannel.lvclass" Type="LVClass" URL="../_OSA_class/_OSA300_class/_OSAchannel_class/OSAchannel.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -96,6 +97,7 @@
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="General Error Handler CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler CORE.vi"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
@@ -135,7 +137,9 @@
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
+			<Item Name="Read channels.vi" Type="VI" URL="../_OSA_class/_OSA300_class/Read channels.vi"/>
+			<Item Name="Write channels.vi" Type="VI" URL="../_OSA_class/_OSA300_class/Write channels.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="OSA20X example" Type="EXE">
