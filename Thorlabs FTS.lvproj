@@ -131,7 +131,6 @@
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="channelType.ctl" Type="VI" URL="../_OSA_class/_OSA300_class/typeDef/channelType.ctl"/>
 			<Item Name="FTSLib.dll" Type="Document" URL="FTSLib.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -139,8 +138,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
-			<Item Name="Read channels.vi" Type="VI" URL="../_OSA_class/_OSA300_class/Read channels.vi"/>
-			<Item Name="Write channels.vi" Type="VI" URL="../_OSA_class/_OSA300_class/Write channels.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="OSA20X example" Type="EXE">
