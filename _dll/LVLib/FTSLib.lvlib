@@ -6,6 +6,7 @@
 	<Item Name="FTS Get Acquisition Option Single Gain Level.vi" Type="VI" URL="../VIs/FTS Get Acquisition Option Single Gain Level.vi"/>
 	<Item Name="FTS Get Instrument Property Available Gain Levels.vi" Type="VI" URL="../VIs/FTS Get Instrument Property Available Gain Levels.vi"/>
 	<Item Name="FTS Get Instrument Property Model.vi" Type="VI" URL="../VIs/FTS Get Instrument Property Model.vi"/>
+	<Item Name="FTS GetSet Acquisition Option WMtr Cycle Counting.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option WMtr Cycle Counting.vi"/>
 	<Item Name="FTS Set Acquisition Option Auto Gain.vi" Type="VI" URL="../VIs/FTS Set Acquisition Option Auto Gain.vi"/>
 	<Item Name="FTS Set Acquisition Option Single Gain.vi" Type="VI" URL="../VIs/FTS Set Acquisition Option Single Gain.vi"/>
 	<Item Name="FTS Setup Virtual Source.vi" Type="VI" URL="../VIs/FTS Setup Virtual Source.vi"/>
