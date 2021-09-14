@@ -62,6 +62,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
+			<Item Name="optionsAcq_gainOpticalDetector.vi" Type="VI" URL="../public/acquisition options/optionsAcq_gainOpticalDetector.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(&amp;!!!!$Q!E1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!%!!!!$U!'!!BH97FO8WFE?!!!(5!7!!)%=G6B:!6X=GFU:1!!#8*F9728=GFU:1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!%!!5!"B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#2!)2ZJ:WZP=G5A=G&amp;O:W5A&gt;GFP&lt;'&amp;U;7^O)#BG97RT:3E!!#Z!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!4:(6Q&lt;'FD982F)(*F:G6S:7ZD:1!11$$`````"H.U982V=Q!!%U!'!!VH97FO8WFE?#!A&lt;X6U!".!#A!.:W&amp;J&lt;F^S:7RB&gt;'FW:1!71&amp;!!!Q!%!!5!"AFF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!)!!1!$!!=!!1!)!!%!!1!"!!%!!1!"!!E!#A!,!!Q!!1!.!Q!"%!!!EA!!!!!!!!!+!!!!!!!!!!I!!!!+!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!#1!!!!U#!!!*!!!!!!!!!!U&amp;!!!!!1!/!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 		</Item>
 		<Item Name="init" Type="Folder">
 			<Item Name="init_channel.vi" Type="VI" URL="../public/init/init_channel.vi">
