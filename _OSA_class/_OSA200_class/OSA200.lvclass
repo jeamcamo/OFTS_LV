@@ -71,6 +71,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
+			<Item Name="optionsAcq_spectralRange_waveNr.vi" Type="VI" URL="../public/acquisition options/optionsAcq_spectralRange_waveNr.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(X!!!!$Q!E1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!:1!E!%H*B&lt;G&gt;F)'VJ&lt;C!I&gt;W&amp;W:5ZS+1!!'5!*!"*S97ZH:3"N98AA+(&gt;B&gt;G6/=CE!!#^!&amp;A!$#8*B&lt;G&gt;F)'VJ&lt;AFS97ZH:3"N98A%9G^U;!!!$(&gt;S;82F)'&amp;D&gt;'FP&lt;A!!(5!7!!)%=G6B:!6X=GFU:1!!#8*F9728=GFU:1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!&amp;!!9!"R.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!1!!!!O1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!%W2V='RJ9W&amp;U:3"S:7:F=G6O9W5!(5!*!"&gt;S97ZH:3"N;7YA=G6B:#!I&gt;W&amp;W:5ZS+1!&gt;1!E!&amp;X*B&lt;G&gt;F)'VB?#"S:7&amp;E)#BX98:F4H)J!":!5!!$!!5!"A!(#76S=G^S)'^V&gt;!#%!0!!&amp;!!!!!%!!A!$!!1!#!!*!!E!#1!*!!E!#1!*!!E!#A!,!!Q!#1!*!!U$!!%1!!#3!!!!#A!!!!I!!!!+!!!!%A!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)U!!!!.!1!!$1)!!!!!!!!!!!!!$15!!!!"!!Y!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 		</Item>
 		<Item Name="init" Type="Folder">
 			<Item Name="init_channel.vi" Type="VI" URL="../public/init/init_channel.vi">

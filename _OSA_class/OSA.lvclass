@@ -923,13 +923,13 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1350574610</Property>
 			</Item>
 			<Item Name="optionsAcq_spectralRange_waveNr.vi" Type="VI" URL="../public/acquisition options/optionsAcq_spectralRange_waveNr.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)%!!!!$Q!A1(!!(A!!$1N05U%O&lt;(:D&lt;'&amp;T=Q!*=G6G:8*F&lt;G.F!"F!#1!3=G&amp;O:W5A&lt;7FO)#BX98:F4H)J!!!:1!E!%H*B&lt;G&gt;F)'VB?#!I&gt;W&amp;W:5ZS+1!!,U!7!!-*=G&amp;O:W5A&lt;7FO#8*B&lt;G&gt;F)'VB?!2C&lt;X2I!!!-&gt;X*J&gt;'5A97.U;7^O!!!&gt;1"9!!A2S:7&amp;E"8&gt;S;82F!!!*=G6B:&amp;&gt;S;82F!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!5!"A!(%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!"!!!!#J!=!!?!!!.#U^413ZM&gt;G.M98.T!".E&gt;8"M;7.B&gt;'5A=G6G:8*F&lt;G.F!"V!#1!8=G&amp;O:W5A&lt;7FO)(*F971A+(&gt;B&gt;G6/=CE!(5!*!"&gt;S97ZH:3"N98AA=G6B:#!I&gt;W&amp;W:5ZS+1!71&amp;!!!Q!&amp;!!9!"QFF=H*P=C"P&gt;81!G1$Q!"1!!!!"!!)!!Q!%!!A!#1!*!!E!#1!*!!E!#1!*!!I!#Q!-!!E!#1!.!Q!"%!!!%!!!!!I!!!!+!!!!#!!!!"!!!!!+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.!!!!$1%!!!U#!!!!!!!!!!!!!!U&amp;!"5!!!!!!!!!!!!!!!!!!!%!!!!!!!!!!1!/!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(P!!!!$Q!A1(!!(A!!$1N05U%O&lt;(:D&lt;'&amp;T=Q!*=G6G:8*F&lt;G.F!"F!#1!3=G&amp;O:W5A&lt;7FO)#BX98:F4H)J!!!:1!E!%H*B&lt;G&gt;F)'VB?#!I&gt;W&amp;W:5ZS+1!!,U!7!!-*=G&amp;O:W5A&lt;7FO#8*B&lt;G&gt;F)'VB?!2C&lt;X2I!!!-&gt;X*J&gt;'5A97.U;7^O!!!&gt;1"9!!A2S:7&amp;E"8&gt;S;82F!!!*=G6B:&amp;&gt;S;82F!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!5!"A!(%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!"!!!!#J!=!!?!!!.#U^413ZM&gt;G.M98.T!".E&gt;8"M;7.B&gt;'5A=G6G:8*F&lt;G.F!"V!#1!8=G&amp;O:W5A&lt;7FO)(*F971A+(&gt;B&gt;G6/=CE!(5!*!"&gt;S97ZH:3"N98AA=G6B:#!I&gt;W&amp;W:5ZS+1!71&amp;!!!Q!&amp;!!9!"QFF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!)!!Q!%!!A!#1!*!!E!#1!*!!E!#1!*!!I!#Q!-!!E!#1!.!Q!"%!!!E!!!!!I!!!!+!!!!#!!!!"!!!!!+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!$1%!!!U#!!!!!!!!!!!!!!U&amp;!!!!!1!/!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
 		</Item>
 		<Item Name="action" Type="Folder">
