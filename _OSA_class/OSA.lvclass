@@ -421,6 +421,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 		</Item>
+		<Item Name="optionsAcq_rangeCheck.vi" Type="VI" URL="../private/optionsAcq_rangeCheck.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(S!!!!%A!:1!E!%H*B&lt;G&gt;F)'VJ&lt;C!I&gt;W&amp;W:5ZS+1!!(5!'!":D;'&amp;O&lt;G6M)'FO:'6Y)(.Q:7.U=H6N!!!61!9!$X.Q:7.U=G^N:82F=EFE?!!N1"9!!QFS97ZH:3"N;7Y*=G&amp;O:W5A&lt;7&amp;Y"'*P&gt;'A!!!NV='2B&gt;'5A&lt;7^E:1!&gt;1!E!&amp;H*B&lt;G&gt;F)'VJ&lt;C!I&gt;W&amp;W:5ZS+3"P&gt;81!!"F!#1!3=G&amp;O:W5A&lt;7&amp;Y)#BX98:F4H)J!!!&gt;1!E!&amp;H*B&lt;G&gt;F)'VB?#!I&gt;W&amp;W:5ZS+3"P&gt;81!!"&gt;!#1!2=G&amp;O:W5A9X6S=G6O&gt;#"N;7Y!"!!!!"&gt;!#1!2=G&amp;O:W5A9X6S=G6O&gt;#"N98A!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!#A!,!!Q):8*S&lt;X)A;7Y!!"&gt;!#1!2&gt;W&amp;W:5ZS47FO)(.V=("P=H1!&amp;U!*!"&amp;X98:F4H*.98AA=X6Q='^S&gt;!!71&amp;!!!Q!+!!M!$!FF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!"!!)!!Q!%!!5!"A!(!!A!#1!)!!U!$A!0!!A!%!-!!1A!!")!!!!1!!!!%!!!!"!!!!!.!!!!%!!!!!U*!!!1!!!!!!!!!")!!!!!!!!!#A!!!"!!!!!1!!!!!!!!!!U,!!!!!1!2!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
 	</Item>
 	<Item Name="utils" Type="Folder">
 		<Item Name="OSA20X_asAcq_new.vi" Type="VI" URL="../utils/OSA20X_asAcq_new.vi">
