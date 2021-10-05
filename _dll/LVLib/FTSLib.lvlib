@@ -5,6 +5,7 @@
 	<Item Name="FTS Get Acquisition Option Auto Gain.vi" Type="VI" URL="../VIs/FTS Get Acquisition Option Auto Gain.vi"/>
 	<Item Name="FTS Get Acquisition Option Single Gain Level.vi" Type="VI" URL="../VIs/FTS Get Acquisition Option Single Gain Level.vi"/>
 	<Item Name="FTS Get Instrument Property Available Gain Levels.vi" Type="VI" URL="../VIs/FTS Get Instrument Property Available Gain Levels.vi"/>
+	<Item Name="FTS Get Instrument Property hwSort.vi" Type="VI" URL="../VIs/FTS Get Instrument Property hwSort.vi"/>
 	<Item Name="FTS Get Instrument Property Model.vi" Type="VI" URL="../VIs/FTS Get Instrument Property Model.vi"/>
 	<Item Name="FTS Get Instrument Property PD_tempVariable.vi" Type="VI" URL="../VIs/FTS Get Instrument Property PD_tempVariable.vi"/>
 	<Item Name="FTS GetSet Acquisition Option Interferogram Smoothing.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option Interferogram Smoothing.vi"/>
