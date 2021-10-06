@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="amplifier_sort.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/amplifier_sort.ctl"/>
 	<Item Name="channel_propertiesGen.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/channel_propertiesGen.ctl"/>
+	<Item Name="channels_table.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/channels_table.ctl"/>
 	<Item Name="channelType_spectrum.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/channelType_spectrum.ctl"/>
 	<Item Name="detector_sort.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/detector_sort.ctl"/>
 	<Item Name="dllFile_search.vi" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/dllFile_search.vi"/>
