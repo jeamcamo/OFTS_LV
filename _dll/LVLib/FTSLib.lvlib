@@ -15,4 +15,5 @@
 	<Item Name="FTS Set Acquisition Option Auto Gain.vi" Type="VI" URL="../VIs/FTS Set Acquisition Option Auto Gain.vi"/>
 	<Item Name="FTS Set Acquisition Option Single Gain.vi" Type="VI" URL="../VIs/FTS Set Acquisition Option Single Gain.vi"/>
 	<Item Name="FTS Setup Virtual Source.vi" Type="VI" URL="../VIs/FTS Setup Virtual Source.vi"/>
+	<Item Name="FTS Setup Virtual Source_RS.vi" Type="VI" URL="../VIs/FTS Setup Virtual Source_RS.vi"/>
 </Library>

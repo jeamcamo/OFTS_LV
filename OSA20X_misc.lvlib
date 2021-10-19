@@ -19,6 +19,8 @@
 	<Item Name="graph_spectrum.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/graph_spectrum.ctl"/>
 	<Item Name="interferogram_smoothing.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/interferogram_smoothing.ctl"/>
 	<Item Name="kernel32_isWow64Process_exists.vi" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/kernel32_isWow64Process_exists.vi"/>
+	<Item Name="OSA_virtualModel.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/OSA_virtualModel.ctl"/>
+	<Item Name="OSA_virtualSource_RS.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/OSA_virtualSource_RS.ctl"/>
 	<Item Name="PDTemperatureMode.ctl" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/PDTemperatureMode.ctl"/>
 	<Item Name="range_check.vi" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/range_check.vi"/>
 	<Item Name="Time_Sleep.vi" Type="VI" URL="../_misc/Thorlabs_FTS_misc.llb/Time_Sleep.vi"/>
