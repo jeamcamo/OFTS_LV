@@ -196,6 +196,17 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 			</Item>
 		</Item>
+		<Item Name="instrument mode" Type="Folder">
+			<Item Name="mode_resolution.vi" Type="VI" URL="../public/instrument mode/mode_resolution.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'5!!!!$1!E1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!%!!!!%5!'!!JS:8.P&lt;(6U;7^O!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!$!!1!"2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"^!&amp;A!#"(*F971&amp;&gt;X*J&gt;'5!!!JS:7&amp;E,X&gt;S;82F!!!O1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!%W2V='RJ9W&amp;U:3"S:7:F=G6O9W5!%%!Q`````Q:T&gt;'&amp;U&gt;8-!!"6!"A!/=G6T&lt;WRV&gt;'FP&lt;C"P&gt;81!!":!5!!$!!-!"!!&amp;#76S=G^S)'^V&gt;!#%!0!!&amp;!!!!!%!!1!#!!%!"A!"!!%!!1!(!!%!!1!"!!%!#!!"!!E!#A!"!!M$!!%1!!#3!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!!!!!!!!!!!!!!!!!)U!!!!!!!!!#1!!!!U$!!!!!!!!$15!!!!"!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
+		</Item>
 		<Item Name="instrument properties" Type="Folder">
 			<Item Name="instrumentProperties_channels.vi" Type="VI" URL="../public/instrument properties/instrumentProperties_channels.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.0!!!!&amp;1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!&amp;5!*!!ZX98:F47FO)#BD&lt;3UR+1!!&amp;5!*!!ZX98:F47&amp;Y)#BD&lt;3UR+1!!&amp;5!'!!ZH97FO)'RF&gt;G6M=S"O=A!!%5!'!!JP:G:T:81A&lt;7&amp;Y!!#^!0%!!!!!!!!!!B&amp;05U%S-&amp;B@&lt;7FT9SZM&gt;GRJ9B&amp;E:82F9X2P=F^T&lt;X*U,G.U&lt;!#21"9!$A&gt;V&lt;GNO&lt;X&gt;O"V.J&lt;'FD&lt;WY,5WFM;7.P&lt;C"135Y-5WFM;7.P&lt;C".5&amp;"$"EFO2W&amp;"=QZ*&lt;E&gt;B18-A:8BU)'RP&gt;Q^*&lt;E&gt;B18-A:8BU)'BJ:WA%37Z"=Q:*&lt;E&amp;T5W)%37Z49A..1V1&amp;&lt;X2I:8)'&lt;X2I:8)S"G^U;'6S-Q!.:'6U:7.U&lt;X)A=W^S&gt;!!01!9!#7&amp;E9S!D9GFU=Q!31#%.&gt;'6N=#"798*J97*M:1"-!0%!!!!!!!!!!B&amp;05U%S-&amp;B@&lt;7FT9SZM&gt;GRJ9BFD;'&amp;O&lt;G6M8X"S&lt;X"F=H2J:8.(:7YO9X2M!"A!5!!(!!1!"1!'!!=!#!!*!!I!)%"!!!(`````!!M39WBB&lt;GZF&lt;#"Q=G^Q:8*U;76T!!!21!-!#W.I97ZO:7RT)'ZS!$*!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!76'BP=GRB9H.@4V."-D!Q8T9U)'^V&gt;!!!&lt;!$R!!!!!!!!!!)24V."-D"98WVJ=W-O&lt;(:M;7)99WBB&lt;GZF&lt;&amp;2Z='6@=X"F9X2S&gt;7UO9X2M!$F!&amp;A!#$F.*4E&gt;-23"$3%&amp;/4E6-"V.535.)251!!"6T='6D&gt;(*V&lt;3"D;'&amp;O&lt;G6M)(2Z='5!'5!$!".D;'&amp;O&lt;G6M)%266#!I;7ZE:8AJ!!1!!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$"!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!66'BP=GRB9H.@4V."-D!Q8T9U)'FO!&amp;1!]!!-!!-!$!!.!!Y!$Q!1!"%!%1!3!"%!%1!4!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!E!!!!*!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!&amp;!!!!!!</Property>
