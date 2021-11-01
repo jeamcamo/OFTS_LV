@@ -8,6 +8,7 @@
 	<Item Name="FTS Get Instrument Property hwSort.vi" Type="VI" URL="../VIs/FTS Get Instrument Property hwSort.vi"/>
 	<Item Name="FTS Get Instrument Property Model.vi" Type="VI" URL="../VIs/FTS Get Instrument Property Model.vi"/>
 	<Item Name="FTS Get Instrument Property PD_tempVariable.vi" Type="VI" URL="../VIs/FTS Get Instrument Property PD_tempVariable.vi"/>
+	<Item Name="FTS GetSet Acquisition Option AttenuatorAuto.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option AttenuatorAuto.vi"/>
 	<Item Name="FTS GetSet Acquisition Option Interferogram Smoothing.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option Interferogram Smoothing.vi"/>
 	<Item Name="FTS GetSet Acquisition Option PD tempCtrl.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option PD tempCtrl.vi"/>
 	<Item Name="FTS GetSet Acquisition Option Spectrum Smoothing.vi" Type="VI" URL="../VIs/FTS GetSet Acquisition Option Spectrum Smoothing.vi"/>
