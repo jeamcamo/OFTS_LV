@@ -297,6 +297,24 @@
 			</Item>
 		</Item>
 		<Item Name="acquisition options" Type="Folder">
+			<Item Name="optionsAcq_attenuator.vi" Type="VI" URL="../public/acquisition options/optionsAcq_attenuator.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'3!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:T&gt;'&amp;U&gt;8-!!"2!)1ZB&gt;(2F&lt;H6B&gt;'^S)'^V&gt;!!!-E"Q!"Y!!"!/4V."-T!Q,GRW9WRB=X-!!":5;'^S&lt;'&amp;C=V^05U%T-$"@.D1A&lt;X6U!!!31#%-='^M&lt;#"U;7VF4X6U!!!%!!!!%%!B#H"P&lt;'QA&gt;X*J&gt;'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!(5!7!!)%=G6B:!6X=GFU:1!!#8*F9728=GFU:1!11#%+982U:7ZV982P=A!!-%"Q!"Y!!"!/4V."-T!Q,GRW9WRB=X-!!"65;'^S&lt;'&amp;C=V^05U%T-$"@.D1A;7Y!6!$Q!!Q!!Q!%!!5!"A!(!!A!#1!)!!I!#Q!-!!U$!!"Y!!!.#!!!#1!!!!U+!!#.#Q!!#1!!!!!!!!!)!!!!!!!!!!I!!!!1!!!!#A!!!*!!!!!!!1!/!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
+			<Item Name="optionsAcq_attenuatorAuto.vi" Type="VI" URL="../public/acquisition options/optionsAcq_attenuatorAuto.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;E!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:T&gt;'&amp;U&gt;8-!!!Z!)1BB&gt;82P)'^V&gt;!!!-E"Q!"Y!!"!/4V."-T!Q,GRW9WRB=X-!!":5;'^S&lt;'&amp;C=V^05U%T-$"@.D1A&lt;X6U!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!&gt;1"9!!A2S:7&amp;E"8&gt;S;82F!!!*=G6B:&amp;&gt;S;82F!!J!)12B&gt;82P!!!Q1(!!(A!!%!Z05U%T-$!O&lt;(:D&lt;'&amp;T=Q!!&amp;62I&lt;X*M97*T8U^414-Q-&amp;]W.#"J&lt;A"5!0!!$!!$!!1!"1!'!!=!"Q!(!!=!#!!*!!I!#Q-!!(A!!!U)!!!*!!!!$1I!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!+!!!!E!!!!!!"!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 			<Item Name="optionsAcq_channel_select.vi" Type="VI" URL="../public/acquisition options/optionsAcq_channel_select.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Z!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"6!!Q!09WBB&lt;GZF&lt;#"%661A&lt;X6U!$*!=!!?!!!1$E^414-Q-#ZM&gt;G.M98.T!!!76'BP=GRB9H.@4V."-T!Q8T9U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"M!0%!!!!!!!!!!B&amp;05U%S-&amp;B@&lt;7FT9SZM&gt;GRJ9BBD;'&amp;O&lt;G6M6(FQ:6^T='6D&gt;(*V&lt;3ZD&gt;'Q!/5!7!!)/5UF/2UR&amp;)%.)15Z/25Q(5V2*1UB&amp;2!!!&amp;'.I97ZO:7R5?8"F8X.Q:7.U=H6N!!!:1!-!%W.I97ZO:7QA2&amp;65)#BJ&lt;G2F?#E!-%"Q!"Y!!"!/4V."-T!Q,GRW9WRB=X-!!"65;'^S&lt;'&amp;C=V^05U%T-$"@.D1A;7Y!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!1!!!!%!!!!*!!!!!!!1!,!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
