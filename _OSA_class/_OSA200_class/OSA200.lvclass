@@ -51,6 +51,15 @@
 		</Item>
 	</Item>
 	<Item Name="misc_examples" Type="Folder">
+		<Item Name="GUI_channel_updateParent.vi" Type="VI" URL="../misc_examples/GUI_channel_updateParent.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!76'BP=GRB9H.@4V."-D!Q8T9U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!&amp;62I&lt;X*M97*T8U^414)Q-&amp;]W.#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="GUI_resolutionSensitivity.vi" Type="VI" URL="../misc_examples/GUI_resolutionSensitivity.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!76'BP=GRB9H.@4V."-D!Q8T9U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!&amp;!!9!!"Z!=!!)!!%!"Q!C!!!/=G6T&lt;WRV&gt;'FP&lt;C"S:79!!"Z!=!!)!!%!"Q!C!!!0=W6O=WFU;8:J&gt;(EA=G6G!$"!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!66'BP=GRB9H.@4V."-D!Q8T9U)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!A!#1!+!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!%!!!!"!!!!#1!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -105,15 +114,6 @@
 			</Item>
 		</Item>
 		<Item Name="acquisition options" Type="Folder">
-			<Item Name="GUI_channel_updateParent.vi" Type="VI" URL="../misc_examples/GUI_channel_updateParent.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!1$E^414)Q-#ZM&gt;G.M98.T!!!76'BP=GRB9H.@4V."-D!Q8T9U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!%!Z05U%S-$!O&lt;(:D&lt;'&amp;T=Q!!&amp;62I&lt;X*M97*T8U^414)Q-&amp;]W.#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!A!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
-			</Item>
 			<Item Name="optionsAcq_attenuator.vi" Type="VI" URL="../public/acquisition options/optionsAcq_attenuator.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'3!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%%!Q`````Q:T&gt;'&amp;U&gt;8-!!"2!)1ZB&gt;(2F&lt;H6B&gt;'^S)'^V&gt;!!!-E"Q!"Y!!"!/4V."-D!Q,GRW9WRB=X-!!":5;'^S&lt;'&amp;C=V^05U%S-$"@.D1A&lt;X6U!!!31#%-='^M&lt;#"U;7VF4X6U!!!%!!!!%%!B#H"P&lt;'QA&gt;X*J&gt;'5!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!(5!7!!)%=G6B:!6X=GFU:1!!#8*F9728=GFU:1!11#%+982U:7ZV982P=A!!-%"Q!"Y!!"!/4V."-D!Q,GRW9WRB=X-!!"65;'^S&lt;'&amp;C=V^05U%S-$"@.D1A;7Y!6!$Q!!Q!!Q!%!!5!"A!(!!A!#1!)!!I!#Q!-!!U$!!"Y!!!.#!!!#1!!!!E!!!#.#Q!!#1!!!!!!!!!+!!!!!!!!!!I!!!!3!!!!#A!!!*)!!!!!!1!/!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
