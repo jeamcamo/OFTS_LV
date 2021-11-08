@@ -406,6 +406,17 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 			</Item>
 		</Item>
+		<Item Name="data process" Type="Folder">
+			<Item Name="dataProcess_coherenceLength.vi" Type="VI" URL="../public/data process/dataProcess_coherenceLength.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*W!!!!%Q!E1(!!(A!!%!Z05U%T-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!:1!-!%X.B&lt;8"M:8.1:8*3:7:1:8*J&lt;W1!$5!*!!&gt;/&gt;7VF=GFD!"J!1!!"`````Q!#$7FO&gt;'6S:G6S&lt;W&gt;S97U!(U!*!"B9)'VJ&lt;C"J&lt;H2F=G:F=G^H=G&amp;N)#BD&lt;3E!!"^!#1!97#"N98AA;7ZU:8*G:8*P:X*B&lt;3!I9WUJ!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!'!!=!#".F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;N!&amp;A!$"':V&lt;'QD?G6S&lt;S"T?7VN:82S;7-A+#V9)'VJ&lt;C!O,CYO)#N9)'VJ&lt;CEC?G6S&lt;S"B=XFN&lt;76U=GFD)#B9)'VJ&lt;C!O,CYO)&amp;AA&lt;7&amp;Y+1!(7#"S97ZH:1!%!!!!%5!*!!J9)'VJ&lt;C!I9WUJ!!!21!E!#FAA&lt;7&amp;Y)#BD&lt;3E!!#Z!=!!?!!!1$E^414-Q-#ZM&gt;G.M98.T!!!4:(6Q&lt;'FD982F)(*F:G6S:7ZD:1!B1!I!'G.P;'6S:7ZD:3"M:7ZH&gt;'AA:8*S&lt;X)I9WUJ!!!&lt;1!I!&amp;7.P;'6S:7ZD:3"M:7ZH&gt;'AA+'.N+1!71&amp;!!!Q!'!!=!#!FF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!-!"!!&amp;!!E!#A!,!!Q!#Q!.!!M!#Q!,!!Y!$Q!1!!M!#Q!2!Q!"%!!!E!!!!!!!!!%#!!!!!!!!!!!!!!!+!!!!#!!!!!!!!!!)!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!#.!!!!#1!!!!E!!!!!!!!!!!!!!!U&amp;!!!!!1!3!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">536870912</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
+		</Item>
 		<Item Name="init" Type="Folder">
 			<Item Name="create.vi" Type="VI" URL="../public/init/create.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$D!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!1$E^414-Q-#ZM&gt;G.M98.T!!!+4V."-T!Q)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!"!!=!!!!!</Property>
@@ -465,6 +476,15 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
+			<Item Name="instrumentProperties_gainLevels_available.vi" Type="VI" URL="../public/instrument properties/instrumentProperties_gainLevels_available.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'/!!!!$!!E1(!!(A!!%!Z05U%T-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!!A!$!!14:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71$$`````$8.U982V=S"'6&amp;.-;7)!,E"Q!"Y!!"!/4V."-T!Q,GRW9WRB=X-!!".E&gt;8"M;7.B&gt;'5A=G6G:8*F&lt;G.F!".!#A!-2W&amp;J&lt;ERF&gt;G6M=S!S!!!G1%!!!@````]!#"FH97FO4'6W:7RT)'&amp;U)(.F&lt;H.J&gt;'FW;82Z!":!5!!$!!)!!Q!%#76S=G^S)'^V&gt;!#%!0!!&amp;!!!!!%!!1!"!!%!"1!"!!%!!1!"!!9!!1!"!!%!"Q!"!!E!!1!"!!I$!!%1!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!)U!!!!!!!!!#1!!!!!!!!!!!!!!$15!!!!"!!M!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 			</Item>
 			<Item Name="instrumentProperties_PDTemperatureMode_available.vi" Type="VI" URL="../public/instrument properties/instrumentProperties_PDTemperatureMode_available.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#A!E1(!!(A!!%!Z05U%T-$!O&lt;(:D&lt;'&amp;T=Q!!#8*F:G6S:7ZD:1!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!!A!$!!14:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!O1(!!(A!!%!Z05U%T-$!O&lt;(:D&lt;'&amp;T=Q!!%W2V='RJ9W&amp;U:3"S:7:F=G6O9W5!'E!B&amp;&amp;"%6'6N=%.U=GR@98:B;7RB9GRF!!!71&amp;!!!Q!#!!-!"!FF=H*P=C"P&gt;81!B!$Q!"1!!!!"!!%!!1!"!!5!!1!"!!%!!1!"!!%!!1!"!!9!!1!(!!%!!1!)!Q!"%!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#.!!!!!!!!!!E!!!!!!!!!!!!!!!U&amp;!!!!!1!*!!!!!!</Property>
