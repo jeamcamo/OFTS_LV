@@ -119,13 +119,13 @@
 		</Item>
 		<Item Name="init" Type="Folder">
 			<Item Name="instrumentProperties_channel_gainLevels_init.vi" Type="VI" URL="../public/init/instrumentProperties_channel_gainLevels_init.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!5!#A!!-%"!!!(`````!!5C:W&amp;J&lt;C"W97RV:8-A+'&amp;U)(.F&lt;H.J&gt;'FW;82Z)'RF&gt;G6M+1!!,E"Q!"Y!!"134V."9WBB&lt;GZF&lt;#ZM&gt;G.M98.T!!!/4V."9WBB&lt;GZF&lt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"134V."9WBB&lt;GZF&lt;#ZM&gt;G.M98.T!!!.4V."9WBB&lt;GZF&lt;#"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!1!#1-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;L!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!5!#A!!-%"!!!(`````!!5C:W&amp;J&lt;C"W97RV:8-A+'&amp;U)(.F&lt;H.J&gt;'FW;82Z)'RF&gt;G6M+1!!,E"Q!"Y!!"134V."9WBB&lt;GZF&lt;#ZM&gt;G.M98.T!!!/4V."9WBB&lt;GZF&lt;#"P&gt;81!!"*!)1VW;8*U&gt;7&amp;M5W^V=G.F!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,%"Q!"Y!!"134V."9WBB&lt;GZF&lt;#ZM&gt;G.M98.T!!!.4V."9WBB&lt;GZF&lt;#"J&lt;A"B!0!!$!!$!!1!"A!(!!1!"!!%!!A!#1!%!!1!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!1!!!!#A!!!!!!!!!!!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1879581200</Property>
 			</Item>
 		</Item>
 		<Item Name="instrument properties" Type="Folder">
