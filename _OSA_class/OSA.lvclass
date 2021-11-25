@@ -37,6 +37,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="private" Type="Folder">
+		<Item Name="serviceMode_disable.vi" Type="VI" URL="../private/serviceMode_disable.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%2!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#J!=!!?!!!.#U^413ZM&gt;G.M98.T!".5;'^S&lt;'&amp;C=V^05U&amp;@.D1A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!"Y!!!U,4V.",GRW9WRB=X-!%F2I&lt;X*M97*T8U^416]W.#"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!)!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		</Item>
 		<Item Name="virtualOSA_model_code.vi" Type="VI" URL="../private/virtualOSA_model_code.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;'!!!!"1!%!!!!+5!7!!-'4V."-D!Q"E^414-Q-!&gt;64EN/4V&gt;/!!J05U%A=W6S;76T!!!61!9!$X:J=H2V97R05U%A9W^E:1#I!0%!!!!!!!!!!B&amp;05U%S-&amp;B@&lt;7FT9SZM&gt;GRJ9B205U&amp;@&gt;GFS&gt;(6B&lt;%VP:'6M,G.U&lt;!"Z1"9!#Q:05U%S-$%(4V."-D!R1Q:05U%S-$)(4V."-D!S1Q:05U%S-$-(4V."-D!T1A&gt;05U%S-$.$"E^414)Q.1&gt;05U%S-$6$#V*&amp;2&amp;.54UZ&amp;-T!R#V*&amp;2&amp;.54UZ&amp;-T!V!"&amp;W;8*U&gt;7&amp;M)%^413"N&lt;W2F&lt;!"5!0!!$!!!!!%!!!!#!!!!!!!!!!!!!!!!!!!!!Q)!!(A!!!!!!!!*!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
