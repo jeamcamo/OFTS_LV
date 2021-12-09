@@ -7,7 +7,7 @@
 ## Installation package or ZIP-file
 The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu. 
 
-_Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone) has been installed before installing or using the Labview drivers! See the Labview 32/64w bit versions section below for required settings during the application installation._
+_Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone){:target="_blank"} has been installed before installing or using the Labview drivers! See the Labview 32/64w bit versions section below for required settings during the application installation._
 ## FTSLib.dll
 The driver vis are based on functions in FTSLib.dll version 3.10 or newer, located under Thorlabs OSA in the OSA GUI application installation directory, (Program Files\..). The OSA GUI application installation updates the Path system environment variable with the FTSLib.dll path. 
 For detailed information of FTSLib.dll functions; see Thorlabs OSA\lib\FTSLib.docx and the include h-files, available from the Labview Help menu after vip package installation, and located in Thorlabs OSA\lib and \include folders.
