@@ -1,13 +1,20 @@
 # Thorlabs OSA200/300 LabVIEW Drivers 0.0.2
 ## Beta version 0.0.2 support
-* This beta version does not support vip-file installation.
-* OSA FTS diagram palettes has not yet been updated to include OSA300 specific vis - for now consult the Tree vis instead.
+* Tested only on a 64 bit Windows 10 platform.
+* Does not support a vip-file installation.
 * The executable for the example vi has not been fully tested.
 * Please report any malfunctions or bugs through Github, (we will only take into consideration issues that affect the functionality, not program design structure etc).
 ## Installation package or ZIP-file
 The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu. 
 
 _Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone) has been installed before installing or using the Labview drivers! See the Labview 32/64w bit versions section below for required settings during the application installation._
+
+To have access to the OSA diagram palette (when not installing with a vip-file) proceed as follows:
+* download the git-hub latest release asset zip-file
+* move the driver hierarchi to the labview instr.lib folder, (example LabVIEW 2010 - C:\Program Files\National Instruments\LabVIEW 2010\instr.lib).
+* rename the driver root folder to _Thorlabs OSA FTS_, (path ..\instr.lib\Thorlabs OSA FTS\Thorlabs FTS.lvproj)
+* do a mass compile of the driver hierarchi if using a newer version than LabVIEW 2010.
+
 ## FTSLib.dll
 The driver vis are based on functions in FTSLib.dll version 3.10 or newer, located under Thorlabs OSA in the OSA GUI application installation directory, (Program Files\..). The OSA GUI application installation updates the Path system environment variable with the FTSLib.dll path. 
 For detailed information of FTSLib.dll functions; see Thorlabs OSA\lib\FTSLib.docx and the include h-files, available from the Labview Help menu after vip package installation, and located in Thorlabs OSA\lib and \include folders.
