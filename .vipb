@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2021-12-15 20:01:12" Creator="Jens Olsson" Comments="" ID="3b8ed9777d94f550c4caa2529dec3206">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2021-12-16 19:12:37" Creator="Jens Olsson" Comments="" ID="f705c941f1023b777d6ab56127f64376">
   <Library_General_Settings>
     <Package_File_Name>thorlabs_lib_ofts</Package_File_Name>
-    <Library_Version>0.0.2.9</Library_Version>
+    <Library_Version>0.0.2.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -136,6 +136,12 @@ _goop4.llb contains vis supporting the main OSA class.
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path/>
       </QuickDrop_Plugins>
+      <Additional_Destination>
+        <Name>ni_thorlabs</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>false</Preserve_Hierarchy>
+        <Path>&lt;instr.lib&gt;\Thorlabs</Path>
+      </Additional_Destination>
     </Destinations>
     <Source_Files>
       <Destination_Overrides>
@@ -196,6 +202,12 @@ _goop4.llb contains vis supporting the main OSA class.
         <Path>Thorlabs FTS.bin3</Path>
         <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>_misc/dir.mnu</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Password_Overrides>

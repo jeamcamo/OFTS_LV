@@ -1,24 +1,31 @@
 # Thorlabs OSA200/300 LabVIEW Drivers 0.0.2
 ## Beta version 0.0.2 support
 * Tested only on a 64 bit Windows 10 platform.
-* Does not support a vip-file installation.
 * The executable for the example vi has not been fully tested.
 * Please report any malfunctions or bugs through Github, (we will only take into consideration issues that affect the functionality, not program design structure etc).
 ## Installation package or ZIP-file
 The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu. 
 
-_Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone) has been installed before installing or using the Labview drivers! See the Labview 32/64w bit versions section below for required settings during the application installation._
+_Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone) has been installed before installing or using the Labview drivers! See the Labview 32/64 bit versions section below for required settings during the application installation._
+
+_Make sure all older OSA200 specific LabVIEW driver files are removed - root folder names contain the 'OSA20X' characters._
 
 To have access to the OSA diagram palette (when not installing with a vip-file) proceed as follows:
 * download the git-hub latest release asset zip-file
-* move the driver hierarchi to the labview instr.lib folder, (example LabVIEW 2010 - C:\Program Files\National Instruments\LabVIEW 2010\instr.lib).
-* rename the driver root folder to _Thorlabs OSA FTS_, (path ..\instr.lib\Thorlabs OSA FTS\Thorlabs FTS.lvproj)
+* move the driver hierarchi to the labview instr.lib folder, (example LabVIEW 2010 - C:\Program Files\National Instruments\LabVIEW 2010\instr.lib\Thorlabs). Create the   Thorlabs sub-folder if not already present.
+* rename the driver root folder to _Thorlabs OSA FTS_, (path: ..\instr.lib\Thorlabs\Thorlabs OSA FTS\Thorlabs FTS.lvproj).
+* move all files under Thorlabs OSA FTS\\_examples to ..\National Instruments\Labview 20??\Examples\Thorlabs\Thorlabs OSA FTS
 * do a mass compile of the driver hierarchi if using a newer version than LabVIEW 2010.
+* do a mass compile of example vis under ..\National Instruments\Labview 20??\examples\Thorlabs\Thorlabs OSA FTS.
+
+## High Level Driver Files
+Use only vis directly accessible through the Thorlabs OSA FTS diagram palette, the Tree.vi or if picking vis directly from within Thorlabs FTS.lvproj:
+* OSA.lvclass\public
 
 ## FTSLib.dll
 The driver vis are based on functions in FTSLib.dll version 3.10 or newer, located under Thorlabs OSA in the OSA GUI application installation directory, (Program Files\..). The OSA GUI application installation updates the Path system environment variable with the FTSLib.dll path. 
-For detailed information of FTSLib.dll functions; see Thorlabs OSA\lib\FTSLib.docx and the include h-files, available from the Labview Help menu after vip package installation, and located in Thorlabs OSA\lib and \include folders.
-Labview 32/64 bit versions
+For detailed information of FTSLib.dll functions; see Thorlabs OSA\lib\FTSLib.docx and h-files, available from the Labview Help menu after vip package installation, and located in Thorlabs OSA\lib and \include folders.
+## Labview 32/64 bit versions
 The driver, created in 64bit Labview 2010, must be mass compiled if using a 32 bit Labview version or a Labview version newer than 2010. When installed from the vip installation package; the drivers will be automatically mass compiled by the installed Labview version, or if several versions of Labview are installed; the target Labview version can be selected in the installation wizard. 32 bit Labview requires 32-bit FTSLib.dll - select 32-bit Compatibility while installing the OSA GUI application, (64 bit OS). Also, with 32 bit Labview and 64 bit OS; the Path system environment variable must contain the 32bit Thorlabs OSA GUI application installation path, Program (x86)\.., and not the 64bit ditto, see Installation package above. 
 # Driver vis
 See the TREE vis for a categorized overview of the driver vis and the example vis for guidelines of how to use them. For most applications the FTSLib.dll functions supported by the Labview drivers will be appropriate; however some functions have not yet been implemented. When adding new vis that call functions in FTSLib.dll we recommend the Labview import shared library tool.  
