@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2021-12-16 19:12:37" Creator="Jens Olsson" Comments="" ID="f705c941f1023b777d6ab56127f64376">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2022-01-27 19:58:44" Creator="Jens Olsson" Comments="" ID="c76ef651e6f988c85c0a7fd83e0d8225">
   <Library_General_Settings>
     <Package_File_Name>thorlabs_lib_ofts</Package_File_Name>
-    <Library_Version>0.0.2.10</Library_Version>
+    <Library_Version>0.0.2.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -28,16 +28,13 @@
     <VI_Package_Configuration_File>.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>Labview Driver for Thorlabs OSA200 and 300/Redstone Optical Spectrometers</One_Line_Description_Summary>
-      <Description>&lt;size=16&gt;Thorlabs OSA200/300 LabVIEW Drivers 0.0.2
+      <Description>&lt;size=16&gt;Thorlabs OSA300/Redstone LabVIEW Drivers 0.0.2
 
 &lt;size=14&gt;Beta version 0.0.2 support
 &lt;size=12&gt;Tested only on a 64 bit Windows 10 platform.
 The executable for the example vi has not been fully tested.
 
 Please report any malfunctions or bugs through Github, (we will only take into consideration issues that affect the functionality, not program design structure etc).
-
-&lt;size=14&gt;Installation package or ZIP-file
-&lt;size=12&gt;The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu.
 
 Please make sure the OSA GUI application has been installed before installing or using the Labview drivers! See the Labview 32/64w bit versions section below for required settings during the application installation.
 
@@ -67,11 +64,11 @@ _goop4.llb contains vis supporting the main OSA class.
 &lt;size=12&gt;Large Data Sets When acquiring the largest interferogram datasets in conjunction with zero fill and other data analysis functions; see chapter 7, ‘Recommended Hardware and Software Requirements’ in the Thorlabs OSA manuals for the OSA200 or 300/Redstone series. Data-acquisition to traces, instead of the OSA dedicated Labview buffer, will in most cases improve performance/execution time – see the traces example and trace vis in the tree.vi.  
 
 &lt;size=14&gt;Changes Log
-&lt;size=12&gt;0.0.2 Beta version for OSA200/300 series that supports FTSLib.dll version 3.10 and newer.</Description>
+&lt;size=12&gt;0.0.2 Beta version for OSA300 series that supports FTSLib.dll version 3.10 and newer.</Description>
       <Copyright/>
       <Packager>Jens Olsson</Packager>
       <URL>https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=5276</URL>
-      <Release_Notes>Labview Driver Beta Version for Thorlabs Optical Spectrometers OSA200 and OSA300/Redstone. Requires prior installation version 3.10 of the main application, (FTSLib.dll).
+      <Release_Notes>Labview Driver Beta Version for Thorlabs Optical Spectrometers OSA300/Redstone. Requires prior installation version 3.10 of the main application, (FTSLib.dll). Upcoming version of application, (FTSLib.dll), will in addition enable support for OSA200.
 
 
 

@@ -1,10 +1,15 @@
-# Thorlabs OSA200/300 LabVIEW Drivers 0.0.2
+# Thorlabs OSA300/Redstone LabVIEW Drivers 0.0.2
 ## Beta version 0.0.2 support
 * Tested only on a 64 bit Windows 10 platform.
+* LabVIEW 2010 and newer version support.
 * The executable for the example vi has not been fully tested.
 * Please report any malfunctions or bugs through Github, (we will only take into consideration issues that affect the functionality, not program design structure etc).
+* Upcoming versions of the FTSLib.dll will allow OSA200 support, (3.10 supports only OSA300). 
+
 ## Installation package or ZIP-file
-The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu. 
+The drivers are available as a vi package or a zipped project, see the GitHub release page _assets_. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu.
+* thorlabs_lib_ofts-0.0.2.X.vip - vi package manager installation
+* thorlabs_lib_ofts-0.0.2.X.zip - zipped project
 
 _Please make sure the [OSA GUI application](https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=Redstone) has been installed before installing or using the Labview drivers! See the Labview 32/64 bit versions section below for required settings during the application installation._
 
@@ -48,5 +53,5 @@ When acquiring the largest interferogram datasets in conjunction with zero fill 
  
 # Changes Log 
 0.0.2
-Beta version for OSA200/300 series that supports FTSLib.dll version 3.10 and newer.
+Beta version for OSA300 series that supports FTSLib.dll version 3.10 and newer.
 
