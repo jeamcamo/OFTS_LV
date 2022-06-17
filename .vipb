@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2022-06-14 13:57:55" Creator="Jens Olsson" Comments="" ID="ab6fb00e3b9207bc2979e3a55d32574a">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2014-03-26 14:43:23" Modified_Date="2022-06-17 16:13:16" Creator="Jens Olsson" Comments="" ID="93e75b93635e318d6ede132b154a3f64">
   <Library_General_Settings>
     <Package_File_Name>thorlabs_lib_ofts</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -37,7 +37,7 @@
 &lt;size=12&gt;LabVIEW 2010 and newer, 64 bit.
 See the system requirement field for the OSA GUI application (supported OS).
 Requires a prior OSA GUI application installation, (FTSLib.dll and FTSLV.dll), version 3.20 or newer.
-The executable for the example vi has not been fully tested.
+The executable for example.vi has not been fully tested.
 
 &lt;size=14&gt;Legacy OSA200 only driver
 &lt;size=12&gt;We do NOT recommend a Labview driver upgrade from the OSA20X Labview Drivers, Libraries tab, if having already employed any program using these drivers.
@@ -78,7 +78,8 @@ _goop4.llb contains vis supporting the main OSA class.
 &lt;size=12&gt;Large Data Sets When acquiring the largest interferogram datasets in conjunction with zero fill and other data analysis functions; see chapter 7, ‘Recommended Hardware and Software Requirements’ in the Thorlabs OSA manuals for the OSA200 or 300/Redstone series. Data-acquisition to traces, instead of the OSA dedicated Labview buffer, will in most cases improve performance/execution time – see the traces example and trace vis in the tree.vi.
 
 &lt;size=14&gt;Changes Log
-&lt;size=12&gt;1.0.0.0 First release of driver supporting FTSLib.dll version 3.20 and newer.</Description>
+&lt;size=12&gt;1.0.0.12 First release of driver supporting FTSLib.dll version 3.20 and newer.
+&lt;size=12&gt;1.0.0.13 OSA_example_analyse.vi updated with wavelength meter and extended documentation.</Description>
       <Copyright/>
       <Packager>Jens Olsson</Packager>
       <URL>https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=5276</URL>
