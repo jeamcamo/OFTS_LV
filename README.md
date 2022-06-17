@@ -54,4 +54,5 @@ When acquiring the largest interferogram datasets in conjunction with zero fill 
 # Changes Log 
 1.0.0.12
 First release of driver supporting FTSLib.dll version 3.20 and newer.
-
+1.0.0.13
+OSA_example_analyse.vi updated with wavelength meter and extended documentation.
