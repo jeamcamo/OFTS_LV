@@ -10,10 +10,10 @@
 
 ## Installation package or ZIP-file
 The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu.
-* thorlabs_lib_ofts-1.0.0.X.vip - vi package manager installation
+* thorlabs_lib_ofts-1.0.0.X.vip - vi package manager installation, [VIPM guide](./_doc/VIPM%20Driver%20Installation.pdf)
 * thorlabs_lib_ofts-1.0.0.X.zip - zipped project
 
-_Please make sure the [ThorSpectra application](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=OSA) has been installed before installing or using the Labview drivers!_
+_Please make sure the [ThorSpectra application](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=OSA) has been installed!_
 
 _Make sure all older OSA200 specific LabVIEW driver files are removed - root folder names contain the 'OSA20X' characters._
 
