@@ -52,6 +52,9 @@ Large Data Sets
 When acquiring the largest interferogram datasets in conjunction with zero fill and other data analysis functions; see chapter 7, ‘Recommended Hardware and Software Requirements’ in the Thorlabs OSA manuals for the OSA200 or 300/Redstone series. Data-acquisition to traces, instead of the OSA dedicated Labview buffer, will in most cases improve performance/execution time – see the traces example and trace vis in the tree.vi.
  
 # Changes Log
+### 1.0.1.16
+GetLastStatus_ext() in FTSLV.dll has changed - parameter 'typeOfStatus' added. Bugg in dataAcq_get_spectrum.vi - x-data not properly saved.
+
 ### 1.0.0.14
 New installation path for OSA FTSLib.dll and FTSLV.dll.
 
