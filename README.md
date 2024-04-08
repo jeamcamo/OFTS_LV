@@ -1,4 +1,4 @@
-# Thorlabs OSA300/Redstone and OSA200 LabVIEW Drivers 1.0.0
+# Thorlabs OSA300/Redstone and OSA200 LabVIEW Drivers 1.0.1
 ## Support
 * LabVIEW 2010 and newer, 64 bit.
 * See the system requirement field for the [ThorSpectra application](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=OSA) (supported OS).
