@@ -1,4 +1,4 @@
-# Thorlabs OSA300/Redstone and OSA200 LabVIEW Drivers 1.0.0
+# Thorlabs OSA300/Redstone and OSA200 LabVIEW Drivers 1.0.1
 ## Support
 * LabVIEW 2010 and newer, 64 bit.
 * See the system requirement field for the [ThorSpectra application](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=OSA) (supported OS).
@@ -10,8 +10,8 @@
 
 ## Installation package or ZIP-file
 The drivers are available as a vi package or a zipped project. The vi package, (vip-file), created with VI Package Manager, will install the OSA FTS drivers in the Labview environment for driver access through an Instrument I/O and Instrument Driver diagram palette. The vi package installation will also enable access to the driver project file, help files and example vis from the Labview Help menu.
-* thorlabs_lib_ofts-1.0.0.X.vip - vi package manager installation, [VIPM guide](./_doc/VIPM%20Driver%20Installation.pdf)
-* thorlabs_lib_ofts-1.0.0.X.zip - zipped project
+* thorlabs_lib_ofts-1.0.1.X.vip - vi package manager installation, [VIPM guide](./_doc/VIPM%20Driver%20Installation.pdf)
+* thorlabs_lib_ofts-1.0.1.X.zip - zipped project
 
 _Please make sure the [ThorSpectra application](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=OSA) has been installed!_
 
@@ -52,6 +52,9 @@ Large Data Sets
 When acquiring the largest interferogram datasets in conjunction with zero fill and other data analysis functions; see chapter 7, ‘Recommended Hardware and Software Requirements’ in the Thorlabs OSA manuals for the OSA200 or 300/Redstone series. Data-acquisition to traces, instead of the OSA dedicated Labview buffer, will in most cases improve performance/execution time – see the traces example and trace vis in the tree.vi.
  
 # Changes Log
+### 1.0.1.16
+GetLastStatus_ext() in FTSLV.dll has changed - parameter 'typeOfStatus' added. Bugg in dataAcq_get_spectrum.vi - x-data not properly saved.
+
 ### 1.0.0.14
 New installation path for OSA FTSLib.dll and FTSLV.dll.
 
